@@ -1,0 +1,15 @@
+Use diff -u in command line to compare files for examinations. + means code items were added 
+
+- means things were removed
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+I think that Google Docs chose to treat files separately because Google Docs is an app.-based system. Each app is a mostly complete, self-standing document. 
+
+Git ties the files together in a commit because in code like html, css and JS the files work closely together to finish a project.
+
+How can you use the commands git log and git diff to view the history of files?
+
+Remember that older Git logs are lower/below the new entries. Git displays the newest entries first/toward the top.
+
+Git log lists all the commits in the Git repository. Git diff compares two logs/commits. Does Git diff work on more than 2 repositories? Yes. Don't know exactly how it works but I'll read about this.

@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+initializing a repository category all the files and adds them to the git directory. It needs be done to allow git to begin version control.
