@@ -3,3 +3,9 @@ if the work is being shared with others, for a remote backup
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 In case changes are unnecessary or incorrect, control, messages for the logs
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are splits off the main document that refer directly back to the master file.
+Clones are complete, independent copies of repositories.
+Branches are changes to a repository that have not been reconciled with the main branch of the document.
