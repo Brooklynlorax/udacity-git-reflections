@@ -12,3 +12,7 @@ Branches are changes to a repository that have not been reconciled with the main
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Collaboration could be managed with a server. Updated files could be pushed to the server with a unique name, like a tag -r1 (revision 1). New users could use the current revision to accept changes or go back a revision to remove changes.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+To allow others to review changes before effecting the master.
